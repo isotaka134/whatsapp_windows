@@ -14,9 +14,9 @@ Saves the generated script to a specified location
 
 Metasploit Framework
 
-Python (if generating Python scripts)
+Python (generating Python scripts)
 
-PHP (if generating PHP scripts)
+PHP (generating PHP scripts)
 
 ## Installation
 
